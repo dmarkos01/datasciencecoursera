@@ -1,2 +1,2 @@
-# dmarkos_ds_repo
+# datasciencecoursera
 Data science
